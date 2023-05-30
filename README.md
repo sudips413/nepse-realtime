@@ -1,4 +1,4 @@
-## Introductiom
+## Introduction
 This is the project which shows the realtime analysis of Nepal Stock Exchange or simply, nepali share bazar. The realtime is in sense of live update in 2mins for now.
 
 ## Technology
